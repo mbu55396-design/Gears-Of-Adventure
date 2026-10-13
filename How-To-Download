@@ -1,0 +1,19 @@
+## How to install
+
+**Step 1:** Download Prism Launcher [here](https://prismlauncher.org/download/). Pick your system (Windows, Mac, or Linux), download the installer, and run it.
+
+**Step 2:** Open Prism Launcher. The first time you open it, it'll ask you to set a few things up. Pick your language, and when it asks about Java, just let it handle it automatically.
+
+**Step 3:** Log in with your Minecraft account. Click **Accounts** in the top-right, then **Manage Accounts** → **Add Microsoft**, and sign in with the account you play Minecraft on. You need to own Minecraft Java Edition.
+
+**Step 4:** Download the modpack [here](../../releases/latest). Under "Assets," click the `.mrpack` file to download it. Don't unzip it.
+
+**Step 5:** In Prism, click **Add Instance** in the top-left.
+
+**Step 6:** Click **Import** on the left side, then click **Browse** and pick the `.mrpack` file you just downloaded. Hit **OK**.
+
+**Step 7:** Give the pack more RAM. Right-click the new instance → **Edit** → **Settings** → **Java**. Check the box for memory and set the max to 6144–8192 MB (6–8 GB). Close the window when you're done.
+
+**Step 8:** Double-click the instance to launch it. The first launch takes a while since it's downloading all the mods, so give it a few minutes.
+
+**Step 9:** Have fun and try not to die.
